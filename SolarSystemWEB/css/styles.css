@@ -1,8 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
-/*
-  Copyright (c) 2012 Julian Garnier
-  Licensed under the MIT license
-*/
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   border: 0;
   font-size: 100%;
@@ -631,99 +627,99 @@ body {
 /* --------------------------------------------------------------------------- text infos data */
 /* --------------------------------------------------------------------------- speed */
 .set-speed dl.infos dd span:after {
-  content: 'Orbit Velocity'; }
+  content: 'Орбитадағы жылдамдығы'; }
 
 .set-speed #sun dl.infos dd:after {
-  content: '0 km/h'; }
+  content: '0 Км/Сағ'; }
 
 .set-speed #mercury dl.infos dd:after {
-  content: '170,503 km/h'; }
+  content: '170,503 Км/Сағ'; }
 
 .set-speed #venus dl.infos dd:after {
-  content: '126,074 km/h'; }
+  content: '126,074 Км/Сағ'; }
 
 .set-speed #earth dl.infos dd:after {
-  content: '107,218 km/h'; }
+  content: '107,218 Км/Сағ'; }
 
 .set-speed #mars dl.infos dd:after {
-  content: '86,677 km/h'; }
+  content: '86,677 Км/Сағ'; }
 
 .set-speed #jupiter dl.infos dd:after {
-  content: '47,002 km/h'; }
+  content: '47,002 Км/Сағ'; }
 
 .set-speed #saturn dl.infos dd:after {
-  content: '34,701 km/h'; }
+  content: '34,701 Км/Сағ'; }
 
 .set-speed #uranus dl.infos dd:after {
-  content: '24,477 km/h'; }
+  content: '24,477 Км/Сағ'; }
 
 .set-speed #neptune dl.infos dd:after {
-  content: '19,566 km/h'; }
+  content: '19,566 Км/Сағ'; }
 
 /* --------------------------------------------------------------------------- size */
 .set-size dl.infos dd span:after {
-  content: 'Equatorial Circumference'; }
+  content: 'Экваторлық жағдайлар'; }
 
 .set-size #sun dl.infos dd:after {
-  content: '4,370,005 km'; }
+  content: '4,370,005 Км'; }
 
 .set-size #mercury dl.infos dd:after {
-  content: '15,329 km'; }
+  content: '15,329 Км'; }
 
 .set-size #venus dl.infos dd:after {
-  content: '38,024 km'; }
+  content: '38,024 Км'; }
 
 .set-size #earth dl.infos dd:after {
-  content: '40,030 km'; }
+  content: '40,030 Км'; }
 
 .set-size #mars dl.infos dd:after {
-  content: '21,296 km'; }
+  content: '21,296 Км'; }
 
 .set-size #jupiter dl.infos dd:after {
-  content: '439,263 km'; }
+  content: '439,263 Км'; }
 
 .set-size #saturn dl.infos dd:after {
-  content: '365,882 km'; }
+  content: '365,882 Км'; }
 
 .set-size #uranus dl.infos dd:after {
-  content: '159,354 km'; }
+  content: '159,354 Км'; }
 
 .set-size #neptune dl.infos dd:after {
-  content: '154,704 km'; }
+  content: '154,704 Км'; }
 
 /* --------------------------------------------------------------------------- distance */
 .set-distance dl.infos dd span:after {
-  content: 'From Sun'; }
+  content: 'Күннен'; }
 
 .set-distance #sun dl.infos dd span:after {
-  content: 'From Earth'; }
+  content: 'Жерден'; }
 
 .set-distance #sun dl.infos dd:after {
-  content: '149,598,262 km'; }
+  content: '149,598,262 Км'; }
 
 .set-distance #mercury dl.infos dd:after {
-  content: '57,909,227 km'; }
+  content: '57,909,227 Км'; }
 
 .set-distance #venus dl.infos dd:after {
-  content: '108,209,475 km'; }
+  content: '108,209,475 Км'; }
 
 .set-distance #earth dl.infos dd:after {
-  content: '149,598,262 km'; }
+  content: '149,598,262 Км'; }
 
 .set-distance #mars dl.infos dd:after {
-  content: '227,943,824 km'; }
+  content: '227,943,824 Км'; }
 
 .set-distance #jupiter dl.infos dd:after {
-  content: '778,340,821 km'; }
+  content: '778,340,821 Км'; }
 
 .set-distance #saturn dl.infos dd:after {
-  content: '1,426,666,422 km'; }
+  content: '1,426,666,422 Км'; }
 
 .set-distance #uranus dl.infos dd:after {
-  content: '2,870,658,186 km'; }
+  content: '2,870,658,186 Км'; }
 
 .set-distance #neptune dl.infos dd:after {
-  content: '4,498,396,441 km'; }
+  content: '4,498,396,441 Км'; }
 
 /* --------------------------------------------------------------------------- planets starting position and lighting effect */
 /* --------------------------------------------------------------------------- mercury ; pos: Top */
